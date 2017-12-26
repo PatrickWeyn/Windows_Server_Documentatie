@@ -87,7 +87,7 @@
 	- Click `Accept`;
 	- Select `Deployment Tools, Windows PE, USMT`;
 	- Click `Install`;
-3. SQL Server 2012 SP1
+3. SQL Server 2012 SP1 (voor download link: Zie exsql)
 	- Insert the Disk;
 	- right-click `setup.exe`;
 	- Select `Run as administrator`;
